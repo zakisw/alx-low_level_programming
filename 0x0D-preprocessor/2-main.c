@@ -7,7 +7,7 @@
  */
 int ain(void)
 {
-	printf("%s\n", __FILE__);
+	printf("2-main\n");
 	return (0);
 }
 
