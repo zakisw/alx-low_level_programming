@@ -1,0 +1,1 @@
+char *_strcat(void);

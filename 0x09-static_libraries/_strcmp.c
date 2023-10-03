@@ -1,0 +1,1 @@
+int _strcmp(void);
