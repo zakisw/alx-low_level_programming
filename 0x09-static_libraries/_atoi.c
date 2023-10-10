@@ -1,1 +1,0 @@
-int _atoi(void);

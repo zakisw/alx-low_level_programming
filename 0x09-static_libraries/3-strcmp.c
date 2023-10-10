@@ -1,5 +1,5 @@
 #include "main.h"
-void _islower(int c) 
+void _strcmp(char *s1, char *s2) 
 {
         return 0;
 }

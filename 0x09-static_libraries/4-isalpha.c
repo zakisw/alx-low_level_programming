@@ -1,5 +1,5 @@
 #include "main.h"
-void _islower(int c) 
+void _isalpha(int c) 
 {
         return 0;
 }

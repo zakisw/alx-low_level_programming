@@ -1,5 +1,5 @@
 #include "main.h"
-void _islower(int c) 
+void *_strchr(char *s, char c)
 {
         return 0;
 }

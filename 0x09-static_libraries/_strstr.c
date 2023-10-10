@@ -1,1 +1,0 @@
-char *_strstr(void);

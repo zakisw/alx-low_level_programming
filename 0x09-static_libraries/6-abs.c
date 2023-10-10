@@ -1,5 +1,5 @@
 #include "main.h"
-void _islower(int c) 
+void _abs(int n) 
 {
         return 0;
 }

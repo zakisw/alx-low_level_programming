@@ -1,5 +1,5 @@
 #include "main.h"
-void _islower(int c) 
+void _strlen(char *s)
 {
         return 0;
 }

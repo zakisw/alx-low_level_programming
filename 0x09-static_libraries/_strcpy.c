@@ -1,1 +1,0 @@
-char *_strcpy(void);
