@@ -8,7 +8,10 @@
  */
 int main(int argc, char *argv[])
 {
-printf("%d\n", argc);
+if (argc>=1)
+{
+printf("%d\n", argc-1);
+}
 (void) argv;
 return (0);
 }
