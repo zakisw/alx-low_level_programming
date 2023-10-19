@@ -13,5 +13,6 @@ int main(void)
 
     s = SUM(98, 1024);
     printf("%d\n", s);
+    printf("%d\n", SUM(2048, 4096) * 5);
     return (0);
 }
